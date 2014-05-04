@@ -14,3 +14,8 @@ function detect-os {
 			;;
 	esac
 }
+
+# Detech file system.
+function detect-fs {
+	echo ext4
+}
