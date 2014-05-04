@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Detech OS.
 function detect-os {
 	case $(uname) in
 		Darwin)

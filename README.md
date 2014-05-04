@@ -3,3 +3,5 @@
 ## Functions
 
 * detect-os
+
+Detect OS.
