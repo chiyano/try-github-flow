@@ -5,3 +5,7 @@
 * detect-os
 
 Detect OS.
+
+* detect-fs
+
+Detect file system.
